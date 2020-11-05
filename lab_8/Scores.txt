@@ -1,0 +1,13 @@
+name: Misha  score: 2   number of shots fired: 17   shooting percentage: 100.0
+name: Misha  score: 4   number of shots fired: 8   shooting percentage: 100.0
+name: Misha  score: 0   number of shots fired: 1   shooting percentage: 100.0
+name: Mikhail  score: 1   number of shots fired: 3   shooting percentage: 100.0
+name: dfdf score: 1   number of shots fired: 4   shooting percentage: 100.0
+name: df score: 0   number of shots fired: 1   shooting percentage: 100.0
+name: retree score: 0   number of shots fired: 1   shooting percentage: 100.0
+name: dfsdfsdf  score: 10   number of shots fired: 17   shooting percentage: 82.4
+name: rwer score: 1   number of shots fired: 5   shooting percentage: 80.0
+name: werwerwrw score: 4   number of shots fired: 9   shooting percentage: 77.8
+name: mmm  score: 0   number of shots fired: 16   shooting percentage: 68.8
+name: мпапвап  score: 1   number of shots fired: 5   shooting percentage: 60.0
+name: Mikhail  score: 1   number of shots fired: 7   shooting percentage: 14.3
